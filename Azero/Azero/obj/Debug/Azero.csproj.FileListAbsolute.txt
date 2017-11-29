@@ -1,0 +1,7 @@
+C:\workspace\demo_template\Azero\Azero\bin\Debug\Azero.exe.config
+C:\workspace\demo_template\Azero\Azero\bin\Debug\Azero.exe
+C:\workspace\demo_template\Azero\Azero\bin\Debug\Azero.pdb
+C:\workspace\demo_template\Azero\Azero\obj\Debug\Azero.csprojResolveAssemblyReference.cache
+C:\workspace\demo_template\Azero\Azero\obj\Debug\Azero.csproj.CoreCompileInputs.cache
+C:\workspace\demo_template\Azero\Azero\obj\Debug\Azero.exe
+C:\workspace\demo_template\Azero\Azero\obj\Debug\Azero.pdb
